@@ -1421,7 +1421,7 @@ break
               menunya = 
 `
 ╭─❒ 「 Bot Info 」 ❒
-├ Nama Bot : ⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭
+├ SC PRIVATE ⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭
 ├ Prefix : Multi Prefix
 ├ Nomor Owner : ${nomerOwner}
 ├ Runtime : ${runtime(process.uptime())}
@@ -1556,7 +1556,8 @@ teks =
 but = [
           { buttonId: `${prefix}infobot`, buttonText: { displayText: '☰ INFO' }, type: 1 },
           { buttonId: `${prefix}owner`, buttonText: { displayText: '☰ OWNER' }, type: 1 },
-          { buttonId: `${prefix}p`, buttonText: { displayText: '𝐙𝐞𝐱𝐭𝐳 𝐇𝐢𝐠𝐡𝟕 𝙓 𝐑𝐚𝐧𝐳 𝐌𝟓 X ⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭' }, type: 1 }
+          { buttonId: `${prefix}p`, buttonText: { displayText: '𝐙𝐞𝐱𝐭𝐳 𝐇𝐢𝐠𝐡𝟕 𝙓 𝐑𝐚𝐧𝐳 𝐌𝟓' }, type: 1 }
+          { buttonId: `${prefix}jiixxy`, buttonText: { displayText: '⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭' }, type: 1 },
         ]
         sendButImage(from, menunya, teks, gambar, but)
 break
@@ -1585,7 +1586,7 @@ break
 				stst = stst.status == 401 ? 'unknown' : stst.status
 			num = await fetchJson(`https://numlookupapi.com/api/validate/${senderNumber}`, {method: 'get'})
        menu =`╭─❒ 「 Bot Info 」 ❒
-├ Nama Bot : ⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭
+├ SC PRIVATE ⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭
 ├ Prefix : Multi Prefix
 ├ Nomor Owner : ${nomerOwner}
 ├ Runtime : ${runtime(process.uptime())}
@@ -1766,15 +1767,15 @@ const katalognye = await zeroyt7.prepareMessageFromContent(from, {
 "product": {
 "productImage": imgkatalog,
 "productId": "Gciigxifidyyf87",
-"title": `Sc asli ⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭`,
+"title": `Sc asli Zextz High7`,
 "description": menu,
-"footerText": `⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭`,
+"footerText": `Klo Mo Beli Sc Ini Chat Owner!`,
 "currencyCode": "IDR",
 "priceAmount1000": "100000000",
 "productImageCount": 1,
 "firstImageId": 1,
 "salePriceAmount1000": "35000000",
-"retailerId": `⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭`,
+"retailerId": `Apa Mo Minta Sc? Gw Enc ajg`,
 "url": "https://youtube.com/channel/UCr7JP9W9f-Bz3OMNDczIjbA"
 },
 "businessOwnerJid": "62895606059646@s.whatsapp.net",
@@ -1784,7 +1785,7 @@ ranz.relayWAMessage(katalognye)
 break
 */
 case 'menu1':
-                                                                         lima = fs.readFileSync('./audio/Bot.mp3');
+                                                                         lima = fs.readFileSync('./audio/biji.mp3');
                     ranz.sendMessage(from, lima, MessageType.audio, {quoted: ranzmanju, mimetype: 'audio/mp4', ptt:true})       
 			gambar = thumb
                    timestamp = speed();
@@ -1792,7 +1793,7 @@ case 'menu1':
               menunya = 
 `
 ╭─❒ 「 Bot Info 」 ❒
-├ Nama Bot : ⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭
+├ Nama Bot : 𝐙𝐞𝐱𝐭𝐳 𝐇𝐢𝐠𝐡𝟕
 ├ Prefix : Multi Prefix
 ├ Nomor Owner : ${nomerOwner}
 ├ Runtime : ${runtime(process.uptime())}
