@@ -1415,7 +1415,7 @@ ranz.sendMessage(from, `\`\`\`✓Sukses Mengganti Deskripsi Group\`\`\` *${group
 break
                                       case 'menu':
                                       case 'help':
-                                      if (!ranzmanju.key.fromMe) return reply('⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 SEBENTAR YA TOD....')
+                                      reply(`「 *⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 SEBENTAR YA TOD....* 」`)
 			gambar = thumb
                    timestamp = speed();
 				latensi = speed() - timestamp
