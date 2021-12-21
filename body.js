@@ -143,7 +143,7 @@ antidel = false;
 welcom = false;
 antical = false
 readGc = true; 
-readPc = false;
+readPc = true;
 autovn = true;
 multi = true
 harga = 20000
@@ -1414,7 +1414,8 @@ ranz.groupUpdateDescription(from, `${body.slice(9)}`)
 ranz.sendMessage(from, `\`\`\`✓Sukses Mengganti Deskripsi Group\`\`\` *${groupMetadata.subject}* Menjadi: *${body.slice(9)}*`, text, { quoted: ftrol })
 break
                                       case 'menu':
-                                      case 'help':                   
+                                      case 'help':
+                                      if return reply('⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 SEBENTAR YA TOD...')                  
 			gambar = thumb
                    timestamp = speed();
 				latensi = speed() - timestamp
