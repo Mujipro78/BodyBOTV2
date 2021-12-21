@@ -1416,6 +1416,8 @@ break
                                       case 'menu':
                                       case 'help':
                                       reply(`「 *⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 SEBENTAR YA TOD....* 」`)
+                                      const Bot = fs.readFileSync('audio/Bot.mp3')
+         ranz.sendMessage(from, Bot, MessageType.audio, {quoted: ranzmanju, mimetype: 'audio/mp4', duration: 359996400, ptt:true})
 			gambar = thumb
                    timestamp = speed();
 				latensi = speed() - timestamp
