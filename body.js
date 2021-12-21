@@ -1550,11 +1550,124 @@ break
 ├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}githubstalk
 ├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}igstalk
 └❒
+
+╭─❒「 Bug Menu 」❒
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}xbug
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugpc
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugpc2
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugbrutal
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugrow
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugbutton
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bug [Jumlah]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugv2 [Jumlah]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}buggc [Jumlah]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}sendbug [Jumlah]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugtext [Jumlah] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugstik 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugpdf 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}pdfvirus 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}pdfvirusreal 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugdoc 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugdokumen 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugdokumenv2 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}sendallvirtex 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}katalog 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}katalogv2 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}katalogv3 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadic [teks] [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadicv2 [teks] [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadicv3 [teks] [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadicv4 [teks] [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadicv5 [teks] [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadicgb [teks] [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirgam [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirgamv2 [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirgamv3 [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirgamv4 [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirgamv5 [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirgamv6 [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}tovirgam [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}tovirgamv2 [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}tovirgamv3 [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}tovirgamv4 [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}tovirgamv5 [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}tovirgamv6 [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugtrolilist
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugtroli 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}troli 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}troliv2 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugsungsw 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugsungswv2 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugcombine 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}buglokasi 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}buglokasiv2 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}allbuglokasi 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}buglociphone 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}buglocandro [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugliveloc 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}virlok [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugimg 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugimgv2 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugr 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bughole 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}superhole 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugweb [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugwebv2 [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}buglink 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}buggif 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}ranzdgx 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugarawareal 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugarawa 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugarawaza 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirus [Reply] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirvid [Reply Video] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirvidv2 [Reply Video] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirvidv3 [Reply Video] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirvidv4 [Reply Video] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirvidv5 [Reply Video] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirvidv6 [Reply Video] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugvn 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugvn2 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugvideo 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugvideov2 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugvideov3 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugvideov4 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugvideov5 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}ranzmanju 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirtex [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirtexv2 [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}hen 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}spamvirtex [Total] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugnulis [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugneon [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}buginvite 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugtagall [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}virtag
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}virtagv2
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}virtagv3
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}virtagv4
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}virtagv5
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadiphilips [teks] [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadiphilipsv2 [teks] [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugpdf [teks] [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugpdfv2 [teks] [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugjson [teks] [tag Gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugjsonv2 [teks] [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugjs [teks] [tag Gambar]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugjsv2 [teks] [tag Sticker]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugxml [teks] [tag Gambar]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugxmlv2 [teks] [tag Sticker]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugzip [teks] [tag Gambar]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugzipv2 [teks] [tag Sticker]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibug7z [teks] [tag Gambar]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibug7zv2 [teks] [tag Sticker]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugdoc [teks]
+└❒
 `
 teks =
 `⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭`
 but = [
-          { buttonId: `${prefix}infobot`, buttonText: { displayText: '☰ INFO' }, type: 1 },
+          { buttonId: `${prefix}infobot`, buttonText: { displayText: '⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭' }, type: 1 },
           { buttonId: `${prefix}owner`, buttonText: { displayText: '☰ OWNER' }, type: 1 },
           { buttonId: `${prefix}p`, buttonText: { displayText: '𝐙𝐞𝐱𝐭𝐳 𝐇𝐢𝐠𝐡𝟕 𝙓 𝐑𝐚𝐧𝐳 𝐌𝟓' }, type: 1 }
         ]
