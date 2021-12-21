@@ -1557,7 +1557,6 @@ but = [
           { buttonId: `${prefix}infobot`, buttonText: { displayText: '☰ INFO' }, type: 1 },
           { buttonId: `${prefix}owner`, buttonText: { displayText: '☰ OWNER' }, type: 1 },
           { buttonId: `${prefix}p`, buttonText: { displayText: '𝐙𝐞𝐱𝐭𝐳 𝐇𝐢𝐠𝐡𝟕 𝙓 𝐑𝐚𝐧𝐳 𝐌𝟓' }, type: 1 }
-          { buttonId: `${prefix}jiixxy`, buttonText: { displayText: '⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭' }, type: 1 },
         ]
         sendButImage(from, menunya, teks, gambar, but)
 break
