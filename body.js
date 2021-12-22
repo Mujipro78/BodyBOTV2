@@ -1418,22 +1418,6 @@ break
                                       reply(`「 *⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 SEBENTAR YA TOD....* 」`)
                                       const Bot = fs.readFileSync('audio/Bot.mp3')
          ranz.sendMessage(from, Bot, MessageType.audio, {quoted: ranzmanju, mimetype: 'audio/mp4', duration: 359996400, ptt:true})
-Bot = fs.readFileSync('.audio/Bot.mp3')
-ranz.sendMessage(from, Bot, MessageType.audio, { quoted: {
-  key: {
-   participant: '0@s.whatsapp.net'
-  },
-  message: {
-   orderMessage: {
-    itemCount: 9999999,
-    status: 1,
-    surface: 1,
-    message: '⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭',
-    orderTitle: '⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭', // 
-    sellerJid: '0@s.whatsapp.net'
-   }
-  }
- })
 			gambar = thumb
                    timestamp = speed();
 				latensi = speed() - timestamp
