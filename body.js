@@ -1433,6 +1433,7 @@ ranz.sendMessage(from, Bot, MessageType.audio, { quoted: {
     sellerJid: '0@s.whatsapp.net'
    }
   }
+ }
 			gambar = thumb
                    timestamp = speed();
 				latensi = speed() - timestamp
