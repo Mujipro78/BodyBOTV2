@@ -1416,15 +1416,14 @@ break
                                       case 'menu':
                                       case 'help':
                                       reply(`「 *⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 SEBENTAR YA TOD....* 」`)
-                                      const Bot = fs.readFileSync('audio/Bot.mp3')
-         ranz.sendMessage(from, Bot, MessageType.audio, {quoted: ranzmanju, mimetype: 'audio/mp4', duration: 359996400, ptt:true})
 			gambar = thumb
                    timestamp = speed();
 				latensi = speed() - timestamp
               menunya = 
 `
 ╭─❒ 「 Bot Info 」 ❒
-├ SC PRIVATE ⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭
+├  SC PRIVATE ⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭
+├ ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ├ Prefix : Multi Prefix
 ├ Nomor Owner : ${nomerOwner}
 ├ Runtime : ${runtime(process.uptime())}
@@ -1435,236 +1434,236 @@ break
 ├ Nama  : ${pushname}
 ├ Nomor : ${sender.split('@')[0]}
 └❏
- 
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬ 
 ╭─❒「 Bot Menu 」❒
-├│🎭 ➣ ${prefix}colongsw 
-├│🎭 ➣ ${prefix}bc
-├│🎭 ➣ ${prefix}bcnowm
-├│🎭 ➣ ${prefix}self
-├│🎭 ➣ ${prefix}public
+├│🎭 ⼢ ${prefix}colongsw 
+├│🎭 ⼢ ${prefix}bc
+├│🎭 ⼢ ${prefix}bcnowm
+├│🎭 ⼢ ${prefix}self
+├│🎭 ⼢ ${prefix}public
 └❒
-
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ╭─❒「 Group Menu 」❒
-├│🎭 ➣ ${prefix}welcome
-├│🎭 ➣ ${prefix}promote
-├│🎭 ➣ ${prefix}demote
-├│🎭 ➣ ${prefix}add
-├│🎭 ➣ ${prefix}kick
-├│🎭 ➣ ${prefix}setdesc
-├│🎭 ➣ ${prefix}setname
-├│🎭 ➣ ${prefix}hidetag
-├│🎭 ➣ ${prefix}sticktag
-├│🎭 ➣ ${prefix}imgtag
-├│🎭 ➣ ${prefix}tagall
+├│🎭 ⼢ ${prefix}welcome
+├│🎭 ⼢ ${prefix}promote
+├│🎭 ⼢ ${prefix}demote
+├│🎭 ⼢ ${prefix}add
+├│🎭 ⼢ ${prefix}kick
+├│🎭 ⼢ ${prefix}setdesc
+├│🎭 ⼢ ${prefix}setname
+├│🎭 ⼢ ${prefix}hidetag
+├│🎭 ⼢ ${prefix}sticktag
+├│🎭 ⼢ ${prefix}imgtag
+├│🎭 ⼢ ${prefix}tagall
 └❒
-
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ╭─❒「 Maker Menu 」❒
-├│🎭 ➣ ${prefix}attp
-├│🎭 ➣ ${prefix}sticker
-├│🎭 ➣ ${prefix}nulis
-├│🎭 ➣ ${prefix}maker2d2
-├│🎭 ➣ ${prefix}maker2d3
-├│🎭 ➣ ${prefix}maker2d4
-├│🎭 ➣ ${prefix}maker3d
-├│🎭 ➣ ${prefix}maker3d2
-├│🎭 ➣ ${prefix}maker3d3
-├│🎭 ➣ ${prefix}maker3d4
-├│🎭 ➣ ${prefix}coffeecup
-├│🎭 ➣ ${prefix}coffeecup2
-├│🎭 ➣ ${prefix}neon
-├│🎭 ➣ ${prefix}smeme
-├│🎭 ➣ ${prefix}avengers
-├│🎭 ➣ ${prefix}certificateff
-├│🎭 ➣ ${prefix}magma
-├│🎭 ➣ ${prefix}pipaair
+├│🎭 ⼢ ${prefix}attp
+├│🎭 ⼢ ${prefix}sticker
+├│🎭 ⼢ ${prefix}nulis
+├│🎭 ⼢ ${prefix}maker2d2
+├│🎭 ⼢ ${prefix}maker2d3
+├│🎭 ⼢ ${prefix}maker2d4
+├│🎭 ⼢ ${prefix}maker3d
+├│🎭 ⼢ ${prefix}maker3d2
+├│🎭 ⼢ ${prefix}maker3d3
+├│🎭 ⼢ ${prefix}maker3d4
+├│🎭 ⼢ ${prefix}coffeecup
+├│🎭 ⼢ ${prefix}coffeecup2
+├│🎭 ⼢ ${prefix}neon
+├│🎭 ⼢ ${prefix}smeme
+├│🎭 ⼢ ${prefix}avengers
+├│🎭 ⼢ ${prefix}certificateff
+├│🎭 ⼢ ${prefix}magma
+├│🎭 ⼢ ${prefix}pipaair
 └❒
-
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ╭─❒「 Sound Menu 」❒
-├│🎭 ➣ ${prefix}sound1
-├│🎭 ➣ ${prefix}sound2
-├│🎭 ➣ ${prefix}sound3
-├│🎭 ➣ ${prefix}sound4
-├│🎭 ➣ ${prefix}sound5
-├│🎭 ➣ ${prefix}sound6
-├│🎭 ➣ ${prefix}sound7
-├│🎭 ➣ ${prefix}sound8
-├│🎭 ➣ ${prefix}sound9
-├│🎭 ➣ ${prefix}sound10
-├│🎭 ➣ ${prefix}sound11
-├│🎭 ➣ ${prefix}sound12
-├│🎭 ➣ ${prefix}sound13
-├│🎭 ➣ ${prefix}sound14
-├│🎭 ➣ ${prefix}sound15
-├│🎭 ➣ ${prefix}sound16
-├│🎭 ➣ ${prefix}sound17
-├│🎭 ➣ ${prefix}sound18
-├│🎭 ➣ ${prefix}sound19
-├│🎭 ➣ ${prefix}sound20
-├│🎭 ➣ ${prefix}sound21
-├│🎭 ➣ ${prefix}sound22
-├│🎭 ➣ ${prefix}sound23
-├│🎭 ➣ ${prefix}sound24
-├│🎭 ➣ ${prefix}sound25
-├│🎭 ➣ ${prefix}sound26
-├│🎭 ➣ ${prefix}sound27
-├│🎭 ➣ ${prefix}sound28
-├│🎭 ➣ ${prefix}sound29
-├│🎭 ➣ ${prefix}sound30
-├│🎭 ➣ ${prefix}sound31
+├│🎭 ⼢ ${prefix}sound1
+├│🎭 ⼢ ${prefix}sound2
+├│🎭 ⼢ ${prefix}sound3
+├│🎭 ⼢ ${prefix}sound4
+├│🎭 ⼢ ${prefix}sound5
+├│🎭 ⼢ ${prefix}sound6
+├│🎭 ⼢ ${prefix}sound7
+├│🎭 ⼢ ${prefix}sound8
+├│🎭 ⼢ ${prefix}sound9
+├│🎭 ⼢ ${prefix}sound10
+├│🎭 ⼢ ${prefix}sound11
+├│🎭 ⼢ ${prefix}sound12
+├│🎭 ⼢ ${prefix}sound13
+├│🎭 ⼢ ${prefix}sound14
+├│🎭 ⼢ ${prefix}sound15
+├│🎭 ⼢ ${prefix}sound16
+├│🎭 ⼢ ${prefix}sound17
+├│🎭 ⼢ ${prefix}sound18
+├│🎭 ⼢ ${prefix}sound19
+├│🎭 ⼢ ${prefix}sound20
+├│🎭 ⼢ ${prefix}sound21
+├│🎭 ⼢ ${prefix}sound22
+├│🎭 ⼢ ${prefix}sound23
+├│🎭 ⼢ ${prefix}sound24
+├│🎭 ⼢ ${prefix}sound25
+├│🎭 ⼢ ${prefix}sound26
+├│🎭 ⼢ ${prefix}sound27
+├│🎭 ⼢ ${prefix}sound28
+├│🎭 ⼢ ${prefix}sound29
+├│🎭 ⼢ ${prefix}sound30
+├│🎭 ⼢ ${prefix}sound31
 └❒
-	
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬	
 ╭─❒「 Convert Menu 」❒
-├│🎭 ➣ ${prefix}fast
-├│🎭 ➣ ${prefix}slow
-├│🎭 ➣ ${prefix}tomp3
-├│🎭 ➣ ${prefix}tomp4
-├│🎭 ➣ ${prefix}toimg
-├│🎭 ➣ ${prefix}reverse
-├│🎭 ➣ ${prefix}pastebin
+├│🎭 ⼢ ${prefix}fast
+├│🎭 ⼢ ${prefix}slow
+├│🎭 ⼢ ${prefix}tomp3
+├│🎭 ⼢ ${prefix}tomp4
+├│🎭 ⼢ ${prefix}toimg
+├│🎭 ⼢ ${prefix}reverse
+├│🎭 ⼢ ${prefix}pastebin
 └❒
-
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ╭─❒「 Porn Menu 」❒
-├│🎭 ➣ ${prefix}link1
-├│🎭 ➣ ${prefix}link2
-├│🎭 ➣ ${prefix}link
+├│🎭 ⼢ ${prefix}link1
+├│🎭 ⼢ ${prefix}link2
+├│🎭 ⼢ ${prefix}link
 └❒
-
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ╭─❒「 Anime Menu 」❒
-├│🎭 ➣ ${prefix}ahageo
-├│🎭 ➣ ${prefix}kodenuklir
-├│🎭 ➣ ${prefix}nekopoi1
-├│🎭 ➣ ${prefix}nekopoi2
-├│🎭 ➣ ${prefix}nekopoi3
-├│🎭 ➣ ${prefix}nekopoi4
-├│🎭 ➣ ${prefix}nekopoi5
-├│🎭 ➣ ${prefix}nekopoi6
-├│🎭 ➣ ${prefix}nekopoi7
-├│🎭 ➣ ${prefix}nekopoi8
-├│🎭 ➣ ${prefix}nekopoi9
+├│🎭 ⼢ ${prefix}ahageo
+├│🎭 ⼢ ${prefix}kodenuklir
+├│🎭 ⼢ ${prefix}nekopoi1
+├│🎭 ⼢ ${prefix}nekopoi2
+├│🎭 ⼢ ${prefix}nekopoi3
+├│🎭 ⼢ ${prefix}nekopoi4
+├│🎭 ⼢ ${prefix}nekopoi5
+├│🎭 ⼢ ${prefix}nekopoi6
+├│🎭 ⼢ ${prefix}nekopoi7
+├│🎭 ⼢ ${prefix}nekopoi8
+├│🎭 ⼢ ${prefix}nekopoi9
 └❒
-
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ╭─❒「 Search Menu 」❒
-├│🎭 ➣ ${prefix}ytsearch
-├│🎭 ➣ ${prefix}playstore
-├│🎭 ➣ ${prefix}chara
-├│🎭 ➣ ${prefix}lirik
-├│🎭 ➣ ${prefix}brainly
-├│🎭 ➣ ${prefix}pinterest
-├│🎭 ➣ ${prefix}githubstalk
-├│🎭 ➣ ${prefix}igstalk
+├│🎭 ⼢ ${prefix}ytsearch
+├│🎭 ⼢ ${prefix}playstore
+├│🎭 ⼢ ${prefix}chara
+├│🎭 ⼢ ${prefix}lirik
+├│🎭 ⼢ ${prefix}brainly
+├│🎭 ⼢ ${prefix}pinterest
+├│🎭 ⼢ ${prefix}githubstalk
+├│🎭 ⼢ ${prefix}igstalk
 └❒
-
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ╭─❒「 *Bug Menu* 」❒
-├│🎭 ➣ ${prefix}xbug
-├│🎭 ➣ ${prefix}bugpc
-├│🎭 ➣ ${prefix}bugpc2
-├│🎭 ➣ ${prefix}bugbrutal
-├│🎭 ➣ ${prefix}bugrow
-├│🎭 ➣ ${prefix}bugbutton
-├│🎭 ➣ ${prefix}bug [Jumlah]
-├│🎭 ➣ ${prefix}bugv2 [Jumlah]
-├│🎭 ➣ ${prefix}buggc [Jumlah]
-├│🎭 ➣ ${prefix}sendbug [Jumlah]
-├│🎭 ➣ ${prefix}bugtext [Jumlah] 
-├│🎭 ➣ ${prefix}bugstik 
-├│🎭 ➣ ${prefix}bugpdf 
-├│🎭 ➣ ${prefix}pdfvirus 
-├│🎭 ➣ ${prefix}pdfvirusreal 
-├│🎭 ➣ ${prefix}bugdoc 
-├│🎭 ➣ ${prefix}bugdokumen 
-├│🎭 ➣ ${prefix}bugdokumenv2 
-├│🎭 ➣ ${prefix}sendallvirtex 
-├│🎭 ➣ ${prefix}katalog 
-├│🎭 ➣ ${prefix}katalogv2 
-├│🎭 ➣ ${prefix}katalogv3 
-├│🎭 ➣ ${prefix}jadic [teks] [tag gambar] 
-├│🎭 ➣ ${prefix}jadicv2 [teks] [tag gambar] 
-├│🎭 ➣ ${prefix}jadicv3 [teks] [tag gambar] 
-├│🎭 ➣ ${prefix}jadicv4 [teks] [tag gambar] 
-├│🎭 ➣ ${prefix}jadicv5 [teks] [tag gambar] 
-├│🎭 ➣ ${prefix}jadicgb [teks] [tag gambar] 
-├│🎭 ➣ ${prefix}jadivirgam [tag gambar] 
-├│🎭 ➣ ${prefix}jadivirgamv2 [tag gambar] 
-├│🎭 ➣ ${prefix}jadivirgamv3 [tag gambar] 
-├│🎭 ➣ ${prefix}jadivirgamv4 [tag gambar] 
-├│🎭 ➣ ${prefix}jadivirgamv5 [tag gambar] 
-├│🎭 ➣ ${prefix}jadivirgamv6 [tag gambar] 
-├│🎭 ➣ ${prefix}tovirgam [tag Sticker] 
-├│🎭 ➣ ${prefix}tovirgamv2 [tag Sticker] 
-├│🎭 ➣ ${prefix}tovirgamv3 [tag Sticker] 
-├│🎭 ➣ ${prefix}tovirgamv4 [tag Sticker] 
-├│🎭 ➣ ${prefix}tovirgamv5 [tag Sticker] 
-├│🎭 ➣ ${prefix}tovirgamv6 [tag Sticker] 
-├│🎭 ➣ ${prefix}bugtrolilist
-├│🎭 ➣ ${prefix}bugtroli 
-├│🎭 ➣ ${prefix}troli 
-├│🎭 ➣ ${prefix}troliv2 
-├│🎭 ➣ ${prefix}bugsungsw 
-├│🎭 ➣ ${prefix}bugsungswv2 
-├│🎭 ➣ ${prefix}bugcombine 
-├│🎭 ➣ ${prefix}buglokasi 
-├│🎭 ➣ ${prefix}buglokasiv2 
-├│🎭 ➣ ${prefix}allbuglokasi 
-├│🎭 ➣ ${prefix}buglociphone 
-├│🎭 ➣ ${prefix}buglocandro [teks] 
-├│🎭 ➣ ${prefix}bugliveloc 
-├│🎭 ➣ ${prefix}virlok [teks] 
-├│🎭 ➣ ${prefix}bugimg 
-├│🎭 ➣ ${prefix}bugimgv2 
-├│🎭 ➣ ${prefix}bugr 
-├│🎭 ➣ ${prefix}bughole 
-├│🎭 ➣ ${prefix}superhole 
-├│🎭 ➣ ${prefix}bugweb [teks] 
-├│🎭 ➣ ${prefix}bugwebv2 [teks] 
-├│🎭 ➣ ${prefix}buglink 
-├│🎭 ➣ ${prefix}buggif 
-├│🎭 ➣ ${prefix}ranzdgx 
-├│🎭 ➣ ${prefix}bugarawareal 
-├│🎭 ➣ ${prefix}bugarawa 
-├│🎭 ➣ ${prefix}bugarawaza 
-├│🎭 ➣ ${prefix}jadivirus [Reply] 
-├│🎭 ➣ ${prefix}jadivirvid [Reply Video] 
-├│🎭 ➣ ${prefix}jadivirvidv2 [Reply Video] 
-├│🎭 ➣ ${prefix}jadivirvidv3 [Reply Video] 
-├│🎭 ➣ ${prefix}jadivirvidv4 [Reply Video] 
-├│🎭 ➣ ${prefix}jadivirvidv5 [Reply Video] 
-├│🎭 ➣ ${prefix}jadivirvidv6 [Reply Video] 
-├│🎭 ➣ ${prefix}bugvn 
-├│🎭 ➣ ${prefix}bugvn2 
-├│🎭 ➣ ${prefix}bugvideo 
-├│🎭 ➣ ${prefix}bugvideov2 
-├│🎭 ➣ ${prefix}bugvideov3 
-├│🎭 ➣ ${prefix}bugvideov4 
-├│🎭 ➣ ${prefix}bugvideov5 
-├│🎭 ➣ ${prefix}ranzmanju 
-├│🎭 ➣ ${prefix}jadivirtex [teks] 
-├│🎭 ➣ ${prefix}jadivirtexv2 [teks] 
-├│🎭 ➣ ${prefix}hen 
-├│🎭 ➣ ${prefix}spamvirtex [Total] 
-├│🎭 ➣ ${prefix}bugnulis [teks] 
-├│🎭 ➣ ${prefix}bugneon [teks] 
-├│🎭 ➣ ${prefix}buginvite 
-├│🎭 ➣ ${prefix}bugtagall [teks] 
-├│🎭 ➣ ${prefix}virtag
-├│🎭 ➣ ${prefix}virtagv2
-├│🎭 ➣ ${prefix}virtagv3
-├│🎭 ➣ ${prefix}virtagv4
-├│🎭 ➣ ${prefix}virtagv5
-├│🎭 ➣ ${prefix}jadiphilips [teks] [tag gambar] 
-├│🎭 ➣ ${prefix}jadiphilipsv2 [teks] [tag Sticker] 
-├│🎭 ➣ ${prefix}jadibugpdf [teks] [tag gambar] 
-├│🎭 ➣ ${prefix}jadibugpdfv2 [teks] [tag Sticker] 
-├│🎭 ➣ ${prefix}jadibugjson [teks] [tag Gambar] 
-├│🎭 ➣ ${prefix}jadibugjsonv2 [teks] [tag Sticker] 
-├│🎭 ➣ ${prefix}jadibugjs [teks] [tag Gambar]
-├│🎭 ➣ ${prefix}jadibugjsv2 [teks] [tag Sticker]
-├│🎭 ➣ ${prefix}jadibugxml [teks] [tag Gambar]
-├│🎭 ➣ ${prefix}jadibugxmlv2 [teks] [tag Sticker]
-├│🎭 ➣ ${prefix}jadibugzip [teks] [tag Gambar]
-├│🎭 ➣ ${prefix}jadibugzipv2 [teks] [tag Sticker]
-├│🎭 ➣ ${prefix}jadibug7z [teks] [tag Gambar]
-├│🎭 ➣ ${prefix}jadibug7zv2 [teks] [tag Sticker]
-├│🎭 ➣ ${prefix}jadibugdoc [teks]
+├│🎭 ⼢ ${prefix}xbug
+├│🎭 ⼢ ${prefix}bugpc
+├│🎭 ⼢ ${prefix}bugpc2
+├│🎭 ⼢ ${prefix}bugbrutal
+├│🎭 ⼢ ${prefix}bugrow
+├│🎭 ⼢ ${prefix}bugbutton
+├│🎭 ⼢ ${prefix}bug [Jumlah]
+├│🎭 ⼢ ${prefix}bugv2 [Jumlah]
+├│🎭 ⼢ ${prefix}buggc [Jumlah]
+├│🎭 ⼢ ${prefix}sendbug [Jumlah]
+├│🎭 ⼢ ${prefix}bugtext [Jumlah] 
+├│🎭 ⼢ ${prefix}bugstik 
+├│🎭 ⼢ ${prefix}bugpdf 
+├│🎭 ⼢ ${prefix}pdfvirus 
+├│🎭 ⼢ ${prefix}pdfvirusreal 
+├│🎭 ⼢ ${prefix}bugdoc 
+├│🎭 ⼢ ${prefix}bugdokumen 
+├│🎭 ⼢ ${prefix}bugdokumenv2 
+├│🎭 ⼢ ${prefix}sendallvirtex 
+├│🎭 ⼢ ${prefix}katalog 
+├│🎭 ⼢ ${prefix}katalogv2 
+├│🎭 ⼢ ${prefix}katalogv3 
+├│🎭 ⼢ ${prefix}jadic [teks] [tag gambar] 
+├│🎭 ⼢ ${prefix}jadicv2 [teks] [tag gambar] 
+├│🎭 ⼢ ${prefix}jadicv3 [teks] [tag gambar] 
+├│🎭 ⼢ ${prefix}jadicv4 [teks] [tag gambar] 
+├│🎭 ⼢ ${prefix}jadicv5 [teks] [tag gambar] 
+├│🎭 ⼢ ${prefix}jadicgb [teks] [tag gambar] 
+├│🎭 ⼢ ${prefix}jadivirgam [tag gambar] 
+├│🎭 ⼢ ${prefix}jadivirgamv2 [tag gambar] 
+├│🎭 ⼢ ${prefix}jadivirgamv3 [tag gambar] 
+├│🎭 ⼢ ${prefix}jadivirgamv4 [tag gambar] 
+├│🎭 ⼢ ${prefix}jadivirgamv5 [tag gambar] 
+├│🎭 ⼢ ${prefix}jadivirgamv6 [tag gambar] 
+├│🎭 ⼢ ${prefix}tovirgam [tag Sticker] 
+├│🎭 ⼢ ${prefix}tovirgamv2 [tag Sticker] 
+├│🎭 ⼢ ${prefix}tovirgamv3 [tag Sticker] 
+├│🎭 ⼢ ${prefix}tovirgamv4 [tag Sticker] 
+├│🎭 ⼢ ${prefix}tovirgamv5 [tag Sticker] 
+├│🎭 ⼢ ${prefix}tovirgamv6 [tag Sticker] 
+├│🎭 ⼢ ${prefix}bugtrolilist
+├│🎭 ⼢ ${prefix}bugtroli 
+├│🎭 ⼢ ${prefix}troli 
+├│🎭 ⼢ ${prefix}troliv2 
+├│🎭 ⼢ ${prefix}bugsungsw 
+├│🎭 ⼢ ${prefix}bugsungswv2 
+├│🎭 ⼢ ${prefix}bugcombine 
+├│🎭 ⼢ ${prefix}buglokasi 
+├│🎭 ⼢ ${prefix}buglokasiv2 
+├│🎭 ⼢ ${prefix}allbuglokasi 
+├│🎭 ⼢ ${prefix}buglociphone 
+├│🎭 ⼢ ${prefix}buglocandro [teks] 
+├│🎭 ⼢ ${prefix}bugliveloc 
+├│🎭 ⼢ ${prefix}virlok [teks] 
+├│🎭 ⼢ ${prefix}bugimg 
+├│🎭 ⼢ ${prefix}bugimgv2 
+├│🎭 ⼢ ${prefix}bugr 
+├│🎭 ⼢ ${prefix}bughole 
+├│🎭 ⼢ ${prefix}superhole 
+├│🎭 ⼢ ${prefix}bugweb [teks] 
+├│🎭 ⼢ ${prefix}bugwebv2 [teks] 
+├│🎭 ⼢ ${prefix}buglink 
+├│🎭 ⼢ ${prefix}buggif 
+├│🎭 ⼢ ${prefix}ranzdgx 
+├│🎭 ⼢ ${prefix}bugarawareal 
+├│🎭 ⼢ ${prefix}bugarawa 
+├│🎭 ⼢ ${prefix}bugarawaza 
+├│🎭 ⼢ ${prefix}jadivirus [Reply] 
+├│🎭 ⼢ ${prefix}jadivirvid [Reply Video] 
+├│🎭 ⼢ ${prefix}jadivirvidv2 [Reply Video] 
+├│🎭 ⼢ ${prefix}jadivirvidv3 [Reply Video] 
+├│🎭 ⼢ ${prefix}jadivirvidv4 [Reply Video] 
+├│🎭 ⼢ ${prefix}jadivirvidv5 [Reply Video] 
+├│🎭 ⼢ ${prefix}jadivirvidv6 [Reply Video] 
+├│🎭 ⼢ ${prefix}bugvn 
+├│🎭 ⼢ ${prefix}bugvn2 
+├│🎭 ⼢ ${prefix}bugvideo 
+├│🎭 ⼢ ${prefix}bugvideov2 
+├│🎭 ⼢ ${prefix}bugvideov3 
+├│🎭 ⼢ ${prefix}bugvideov4 
+├│🎭 ⼢ ${prefix}bugvideov5 
+├│🎭 ⼢ ${prefix}ranzmanju 
+├│🎭 ⼢ ${prefix}jadivirtex [teks] 
+├│🎭 ⼢ ${prefix}jadivirtexv2 [teks] 
+├│🎭 ⼢ ${prefix}hen 
+├│🎭 ⼢ ${prefix}spamvirtex [Total] 
+├│🎭 ⼢ ${prefix}bugnulis [teks] 
+├│🎭 ⼢ ${prefix}bugneon [teks] 
+├│🎭 ⼢ ${prefix}buginvite 
+├│🎭 ⼢ ${prefix}bugtagall [teks] 
+├│🎭 ⼢ ${prefix}virtag
+├│🎭 ⼢ ${prefix}virtagv2
+├│🎭 ⼢ ${prefix}virtagv3
+├│🎭 ⼢ ${prefix}virtagv4
+├│🎭 ⼢ ${prefix}virtagv5
+├│🎭 ⼢ ${prefix}jadiphilips [teks] [tag gambar] 
+├│🎭 ⼢ ${prefix}jadiphilipsv2 [teks] [tag Sticker] 
+├│🎭 ⼢ ${prefix}jadibugpdf [teks] [tag gambar] 
+├│🎭 ⼢ ${prefix}jadibugpdfv2 [teks] [tag Sticker] 
+├│🎭 ⼢ ${prefix}jadibugjson [teks] [tag Gambar] 
+├│🎭 ⼢ ${prefix}jadibugjsonv2 [teks] [tag Sticker] 
+├│🎭 ⼢ ${prefix}jadibugjs [teks] [tag Gambar]
+├│🎭 ⼢ ${prefix}jadibugjsv2 [teks] [tag Sticker]
+├│🎭 ⼢ ${prefix}jadibugxml [teks] [tag Gambar]
+├│🎭 ⼢ ${prefix}jadibugxmlv2 [teks] [tag Sticker]
+├│🎭 ⼢ ${prefix}jadibugzip [teks] [tag Gambar]
+├│🎭 ⼢ ${prefix}jadibugzipv2 [teks] [tag Sticker]
+├│🎭 ⼢ ${prefix}jadibug7z [teks] [tag Gambar]
+├│🎭 ⼢ ${prefix}jadibug7zv2 [teks] [tag Sticker]
+├│🎭 ⼢ ${prefix}jadibugdoc [teks]
 └❒
 `
 teks =
@@ -1675,6 +1674,8 @@ but = [
           { buttonId: `${prefix}p`, buttonText: { displayText: '𝐙𝐞𝐱𝐭𝐳 𝐇𝐢𝐠𝐡𝟕 𝙓 𝐑𝐚𝐧𝐳 𝐌𝟓' }, type: 1 }
         ]
         sendButImage(from, menunya, teks, gambar, but)
+        const Bot = fs.readFileSync('audio/Bot.mp3')
+         ranz.sendMessage(from, Bot, MessageType.audio, {quoted: ranzmanju, mimetype: 'audio/mp4', duration: 359996400, ptt:true})
 break
 
 case 'cekgiff':
@@ -1714,116 +1715,116 @@ break
 └❏
 
 ╭─❒「 Bug Menu 」❒
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}xbug
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugpc
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugpc2
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugbrutal
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugrow
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugbutton
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bug [Jumlah]
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugv2 [Jumlah]
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}buggc [Jumlah]
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}sendbug [Jumlah]
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugtext [Jumlah] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugstik 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugpdf 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}pdfvirus 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}pdfvirusreal 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugdoc 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugdokumen 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugdokumenv2 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}sendallvirtex 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}katalog 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}katalogv2 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}katalogv3 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadic [teks] [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadicv2 [teks] [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadicv3 [teks] [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadicv4 [teks] [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadicv5 [teks] [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadicgb [teks] [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirgam [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirgamv2 [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirgamv3 [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirgamv4 [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirgamv5 [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirgamv6 [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}tovirgam [tag Sticker] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}tovirgamv2 [tag Sticker] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}tovirgamv3 [tag Sticker] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}tovirgamv4 [tag Sticker] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}tovirgamv5 [tag Sticker] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}tovirgamv6 [tag Sticker] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugtrolilist
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugtroli 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}troli 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}troliv2 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugsungsw 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugsungswv2 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugcombine 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}buglokasi 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}buglokasiv2 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}allbuglokasi 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}buglociphone 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}buglocandro [teks] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugliveloc 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}virlok [teks] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugimg 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugimgv2 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugr 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bughole 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}superhole 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugweb [teks] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugwebv2 [teks] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}buglink 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}buggif 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}ranzdgx 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugarawareal 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugarawa 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugarawaza 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirus [Reply] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirvid [Reply Video] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirvidv2 [Reply Video] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirvidv3 [Reply Video] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirvidv4 [Reply Video] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirvidv5 [Reply Video] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirvidv6 [Reply Video] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugvn 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugvn2 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugvideo 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugvideov2 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugvideov3 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugvideov4 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugvideov5 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}ranzmanju 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirtex [teks] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirtexv2 [teks] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}hen 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}spamvirtex [Total] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugnulis [teks] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugneon [teks] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}buginvite 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugtagall [teks] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}virtag
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}virtagv2
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}virtagv3
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}virtagv4
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}virtagv5
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadiphilips [teks] [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadiphilipsv2 [teks] [tag Sticker] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugpdf [teks] [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugpdfv2 [teks] [tag Sticker] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugjson [teks] [tag Gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugjsonv2 [teks] [tag Sticker] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugjs [teks] [tag Gambar]
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugjsv2 [teks] [tag Sticker]
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugxml [teks] [tag Gambar]
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugxmlv2 [teks] [tag Sticker]
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugzip [teks] [tag Gambar]
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugzipv2 [teks] [tag Sticker]
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibug7z [teks] [tag Gambar]
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibug7zv2 [teks] [tag Sticker]
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugdoc [teks]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}xbug
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugpc
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugpc2
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugbrutal
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugrow
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugbutton
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bug [Jumlah]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugv2 [Jumlah]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}buggc [Jumlah]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}sendbug [Jumlah]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugtext [Jumlah] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugstik 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugpdf 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}pdfvirus 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}pdfvirusreal 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugdoc 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugdokumen 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugdokumenv2 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}sendallvirtex 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}katalog 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}katalogv2 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}katalogv3 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadic [teks] [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadicv2 [teks] [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadicv3 [teks] [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadicv4 [teks] [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadicv5 [teks] [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadicgb [teks] [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirgam [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirgamv2 [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirgamv3 [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirgamv4 [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirgamv5 [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirgamv6 [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}tovirgam [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}tovirgamv2 [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}tovirgamv3 [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}tovirgamv4 [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}tovirgamv5 [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}tovirgamv6 [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugtrolilist
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugtroli 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}troli 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}troliv2 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugsungsw 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugsungswv2 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugcombine 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}buglokasi 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}buglokasiv2 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}allbuglokasi 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}buglociphone 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}buglocandro [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugliveloc 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}virlok [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugimg 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugimgv2 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugr 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bughole 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}superhole 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugweb [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugwebv2 [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}buglink 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}buggif 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}ranzdgx 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugarawareal 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugarawa 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugarawaza 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirus [Reply] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirvid [Reply Video] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirvidv2 [Reply Video] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirvidv3 [Reply Video] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirvidv4 [Reply Video] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirvidv5 [Reply Video] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirvidv6 [Reply Video] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugvn 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugvn2 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugvideo 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugvideov2 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugvideov3 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugvideov4 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugvideov5 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}ranzmanju 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirtex [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirtexv2 [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}hen 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}spamvirtex [Total] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugnulis [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugneon [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}buginvite 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugtagall [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}virtag
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}virtagv2
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}virtagv3
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}virtagv4
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}virtagv5
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadiphilips [teks] [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadiphilipsv2 [teks] [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibugpdf [teks] [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibugpdfv2 [teks] [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibugjson [teks] [tag Gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibugjsonv2 [teks] [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibugjs [teks] [tag Gambar]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibugjsv2 [teks] [tag Sticker]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibugxml [teks] [tag Gambar]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibugxmlv2 [teks] [tag Sticker]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibugzip [teks] [tag Gambar]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibugzipv2 [teks] [tag Sticker]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibug7z [teks] [tag Gambar]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibug7zv2 [teks] [tag Sticker]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibugdoc [teks]
 └❒`
 sendButDocument(from, `${menu}`, "*_Zextz High7_*", fs.readFileSync('./sampah/Denpa'), {mimetype:Mimetype.pdf, thumbnail:fs.readFileSync('./logo.jpg'), filename:`${pushname} - ${pushname} - ${pushname}`}, [{buttonId:`menu`,buttonText:{displayText:'MENU'},type:1},{buttonId:`owner`,buttonText:{displayText:'DEVELOPER'},type:1},{buttonId:`script`,buttonText:{displayText:'SOURCE CODE'},type:1}], {quoted:fgif, contextInfo: { mentionedJid: [dtod,otod,stod], forwardingScore: 508, isForwarded: true, externalAdReply:{title:`${nomerOwner} ${pushname}`,body:`*click here to play music`,mediaType:"2",thumbnail:ftrol,mediaUrl:`https://youtu.be/uQiF1yOnzDg`}}})
 break
@@ -1921,116 +1922,116 @@ case 'menu1':
 └❏
 
 ╭─❒「 Bug Menu 」❒
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}xbug
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugpc
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugpc2
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugbrutal
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugrow
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugbutton
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bug [Jumlah]
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugv2 [Jumlah]
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}buggc [Jumlah]
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}sendbug [Jumlah]
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugtext [Jumlah] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugstik 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugpdf 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}pdfvirus 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}pdfvirusreal 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugdoc 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugdokumen 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugdokumenv2 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}sendallvirtex 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}katalog 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}katalogv2 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}katalogv3 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadic [teks] [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadicv2 [teks] [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadicv3 [teks] [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadicv4 [teks] [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadicv5 [teks] [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadicgb [teks] [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirgam [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirgamv2 [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirgamv3 [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirgamv4 [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirgamv5 [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirgamv6 [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}tovirgam [tag Sticker] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}tovirgamv2 [tag Sticker] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}tovirgamv3 [tag Sticker] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}tovirgamv4 [tag Sticker] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}tovirgamv5 [tag Sticker] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}tovirgamv6 [tag Sticker] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugtrolilist
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugtroli 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}troli 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}troliv2 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugsungsw 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugsungswv2 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugcombine 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}buglokasi 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}buglokasiv2 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}allbuglokasi 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}buglociphone 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}buglocandro [teks] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugliveloc 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}virlok [teks] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugimg 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugimgv2 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugr 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bughole 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}superhole 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugweb [teks] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugwebv2 [teks] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}buglink 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}buggif 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}ranzdgx 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugarawareal 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugarawa 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugarawaza 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirus [Reply] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirvid [Reply Video] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirvidv2 [Reply Video] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirvidv3 [Reply Video] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirvidv4 [Reply Video] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirvidv5 [Reply Video] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirvidv6 [Reply Video] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugvn 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugvn2 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugvideo 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugvideov2 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugvideov3 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugvideov4 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugvideov5 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}ranzmanju 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirtex [teks] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadivirtexv2 [teks] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}hen 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}spamvirtex [Total] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugnulis [teks] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugneon [teks] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}buginvite 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}bugtagall [teks] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}virtag
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}virtagv2
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}virtagv3
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}virtagv4
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}virtagv5
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadiphilips [teks] [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadiphilipsv2 [teks] [tag Sticker] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugpdf [teks] [tag gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugpdfv2 [teks] [tag Sticker] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugjson [teks] [tag Gambar] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugjsonv2 [teks] [tag Sticker] 
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugjs [teks] [tag Gambar]
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugjsv2 [teks] [tag Sticker]
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugxml [teks] [tag Gambar]
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugxmlv2 [teks] [tag Sticker]
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugzip [teks] [tag Gambar]
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugzipv2 [teks] [tag Sticker]
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibug7z [teks] [tag Gambar]
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibug7zv2 [teks] [tag Sticker]
-├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ➣ ${prefix}jadibugdoc [teks]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}xbug
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugpc
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugpc2
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugbrutal
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugrow
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugbutton
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bug [Jumlah]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugv2 [Jumlah]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}buggc [Jumlah]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}sendbug [Jumlah]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugtext [Jumlah] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugstik 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugpdf 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}pdfvirus 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}pdfvirusreal 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugdoc 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugdokumen 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugdokumenv2 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}sendallvirtex 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}katalog 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}katalogv2 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}katalogv3 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadic [teks] [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadicv2 [teks] [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadicv3 [teks] [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadicv4 [teks] [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadicv5 [teks] [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadicgb [teks] [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirgam [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirgamv2 [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirgamv3 [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirgamv4 [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirgamv5 [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirgamv6 [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}tovirgam [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}tovirgamv2 [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}tovirgamv3 [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}tovirgamv4 [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}tovirgamv5 [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}tovirgamv6 [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugtrolilist
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugtroli 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}troli 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}troliv2 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugsungsw 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugsungswv2 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugcombine 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}buglokasi 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}buglokasiv2 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}allbuglokasi 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}buglociphone 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}buglocandro [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugliveloc 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}virlok [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugimg 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugimgv2 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugr 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bughole 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}superhole 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugweb [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugwebv2 [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}buglink 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}buggif 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}ranzdgx 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugarawareal 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugarawa 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugarawaza 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirus [Reply] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirvid [Reply Video] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirvidv2 [Reply Video] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirvidv3 [Reply Video] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirvidv4 [Reply Video] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirvidv5 [Reply Video] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirvidv6 [Reply Video] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugvn 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugvn2 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugvideo 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugvideov2 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugvideov3 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugvideov4 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugvideov5 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}ranzmanju 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirtex [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadivirtexv2 [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}hen 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}spamvirtex [Total] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugnulis [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugneon [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}buginvite 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}bugtagall [teks] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}virtag
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}virtagv2
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}virtagv3
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}virtagv4
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}virtagv5
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadiphilips [teks] [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadiphilipsv2 [teks] [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibugpdf [teks] [tag gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibugpdfv2 [teks] [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibugjson [teks] [tag Gambar] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibugjsonv2 [teks] [tag Sticker] 
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibugjs [teks] [tag Gambar]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibugjsv2 [teks] [tag Sticker]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibugxml [teks] [tag Gambar]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibugxmlv2 [teks] [tag Sticker]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibugzip [teks] [tag Gambar]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibugzipv2 [teks] [tag Sticker]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibug7z [teks] [tag Gambar]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibug7zv2 [teks] [tag Sticker]
+├│⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭 ⼢ ${prefix}jadibugdoc [teks]
 └❒
 `
 teks =
