@@ -347,6 +347,23 @@ chatss.map( async ({ jid }) => {
 if (readPc === false) return
 await ranz.chatRead(jid)
 })
+// FAKE
+var ftrol = {
+key : {
+participant : '0@s.whatsapp.net'
+},
+message: {
+orderMessage: {
+itemCount : 169,
+status: 1,
+surface : 1,
+message: `⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭`, 
+orderTitle: `⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭`,
+thumbnail: fakethumb,
+sellerJid: '0@s.whatsapp.net' 
+}
+}
+}
 // 𝘼𝙪𝙩𝙤 𝙑𝙣:𝙫
 if (autovn) {
 	if (autovn === false) return
@@ -632,25 +649,6 @@ const fstick = {
                         }
                      }  
                   }
-// FAKE
-
-var ftrol = {
-key : {
-participant : '0@s.whatsapp.net'
-},
-message: {
-orderMessage: {
-itemCount : 169,
-status: 1,
-surface : 1,
-message: `⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭`, 
-orderTitle: `⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭`,
-thumbnail: fakethumb,
-sellerJid: '0@s.whatsapp.net' 
-}
-}
-}
-   
 // STICKER
 
     const fgclink = {
