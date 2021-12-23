@@ -98,7 +98,6 @@ virgamv4 = fs.readFileSync("./thumb/white.jpg")
 virgamv5 = fs.readFileSync("./thumb/slemek.jpg")
 virgamv6 = fs.readFileSync("./thumb/hzzz.jpg")
 const { jadibut } = require('./hm/jadibot')
-fakethumb = fs.readFileSync('.media/image/logo.jpeg')
 
 let commandsDB = JSON.parse(fs.readFileSync('./database/commands.json'))
 let antitoxic = JSON.parse(fs.readFileSync('./database/antitoxic.json'))
@@ -347,23 +346,6 @@ chatss.map( async ({ jid }) => {
 if (readPc === false) return
 await ranz.chatRead(jid)
 })
-// FAKE
-var ftrol = {
-key : {
-participant : '0@s.whatsapp.net'
-},
-message: {
-orderMessage: {
-itemCount : 169,
-status: 1,
-surface : 1,
-message: `⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭`, 
-orderTitle: `⏤͟͟͞͞Jiixxy 𝙊̸𝙁̸𝘾̸͢🎭`,
-thumbnail: fakethumb,
-sellerJid: '0@s.whatsapp.net' 
-}
-}
-}
 // 𝘼𝙪𝙩𝙤 𝙑𝙣:𝙫
 if (autovn) {
 	if (autovn === false) return
